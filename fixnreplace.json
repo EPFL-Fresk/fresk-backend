@@ -1,0 +1,58 @@
+
+{
+  "id": 4,
+  "name": "Fix N'Replace",
+  "subtitle": "Organizing repair cafés for a sustainable future",
+  "description": "Fix N'Replace is a community-driven association that organizes repair cafés to promote sustainability and reduce waste. Volunteers help participants fix broken items, share knowledge, and build a stronger community.",
+  "logo": "https://example.com/logo-fixnreplace.png",
+  "banner": "https://example.com/banner-fixnreplace.png",
+  "activeMembers": 85,
+  "events": [
+    {
+      "id": 4,
+      "name": "Monthly Repair Café",
+      "description": "A monthly gathering where volunteers and participants work together to fix broken items, from electronics to furniture.",
+      "location": "Community Hall, Main Street",
+      "startTime": "2024-12-10T14:00:00Z",
+      "duration": "4h",
+      "image": "https://example.com/repair-cafe.png"
+    },
+    {
+      "id": 5,
+      "name": "Sustainability Workshop",
+      "description": "A workshop on reducing waste and extending the lifespan of household items.",
+      "location": "Green Center, Park Avenue",
+      "startTime": "2024-12-15T10:00:00Z",
+      "duration": "2h",
+      "image": "https://example.com/sustainability-workshop.png"
+    }
+  ],
+  "imageGallery": [
+    "https://example.com/fix1.png",
+    "https://example.com/fix2.png",
+    "https://example.com/fix3.png"
+  ],
+  "committee": [
+    {
+      "id": 7,
+      "name": "Samantha Fixer",
+      "role": "Coordinator",
+      "telegramHandle": "@samantha_fixer",
+      "email": "samantha@example.com"
+    },
+    {
+      "id": 8,
+      "name": "John Repairs",
+      "role": "Volunteer Lead",
+      "telegramHandle": "@john_repairs",
+      "email": "john@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Emma Green",
+      "role": "Sustainability Advocate",
+      "telegramHandle": "@emma_green",
+      "email": "emma@example.com"
+    }
+  ]
+}
