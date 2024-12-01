@@ -27,3 +27,10 @@ libraryDependencies ++= Seq(
   "com.lihaoyi" %% "cask" % "0.10.2",
   "com.lihaoyi" %% "upickle" % "4.0.2"
 )
+
+libraryDependencies ++= Seq(
+  "com.typesafe.slick" %% "slick" % "3.5.2",
+  "com.typesafe.slick" %% "slick-codegen" % "3.5.2",
+  "org.postgresql" % "postgresql" % "42.6.0"
+)
+
